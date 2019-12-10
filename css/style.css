@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,700,800&display=swap');
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+	font-family: Poppins;
+	
+}
+header{
+	position: absolute;
+	background-color: transparent;
+	width: 100%;
+	top:0;
+}
+#hero{
+	background-image: url("../img/header-bg.jpg");
+	background-size:cover;
+	padding: 15%
+}
+#hero h2{
+	padding-top: 10%;
+	text-align: left;
+	color: #fff;
+	font-family: Poppins;
+	font-weight: 700;
+}
+#menu{
+	font-weight: 700;
+	color: #222;
+	padding: 10%;
+}
+#menu p{
+	font-weight: 300;
+	font-size: 13px;
+}
+#menu .col-md-2{
+	color: #b68834;
+}
+#
